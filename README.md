@@ -1,4 +1,4 @@
-## Evil Portals
+## Foose Evil Portals
 
 [Foose Evil Portals](https://github.com/SgtFoose/Evil-Portals) is my collection of portals that can be loaded into the Evil Portal module and can be used for phishing attacks against WiFi clients in order to obtain credentials or infect the victims with malware using the [Hak5](https://hak5.org/) [WiFi Pineapple Mark VII](https://wifipineapple.com/) 
 
