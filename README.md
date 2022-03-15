@@ -11,11 +11,12 @@ This project has been tested on the Pineapple MK7 with firmware 1.0.2 stable onl
 
 Download the repository form https://github.com/SgtFoose/Evil-Portals (green code button top right / download.zip)
 
-Extract the files on your computer and place them in a folder called "ziggo-login".
+Extract the files on your computer (e.g. \Downloads\Evil-Portals-main\Evil-Portals-main\Portals).
 
-You can use [Filezilla](https://filezilla-project.org/) to copy the portals in folder /root/portals/
+You can use [Filezilla](https://filezilla-project.org/) to copy the portals on the Pineapple MK7 in folder /root/portals/.
+Make sure to only copy the Portals, not the entire folder! On the MK7 it should look like this example: /root/portals/ziggo-login/ (not /root/portals/Evil-Portals-main\Evil-Portals-main\Portals\ziggo-login).
 
-	Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
+Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
 Finally on the WiFi Pineapple web interface, start the Evil Portal module and then activate the portal you wish to use.
 
