@@ -8,7 +8,7 @@ This project has been tested on the Pineapple MK7 with these firmwares:
 
 1.0.1 not tested
 
-1.0.2 Wokrs! (15-03-2022)
+1.0.2 Works! (15-03-2022)
 
 1.1.1 not working (10-03-2022)
 
