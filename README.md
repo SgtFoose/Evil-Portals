@@ -33,6 +33,14 @@ Finally on the WiFi Pineapple web interface, start the Evil Portal module and th
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
 
 ---
+
+#### Firmware
+If you like to up or downgrade your Mark VII, I strongly recoomend to use these steps first:
+https://docs.hak5.org/wifi-pineapple/faq/factory-reset-and-recovery
+
+Then, use one of the .bin files to upgrade: https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares
+
+---
 #### License
 Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/SgtFoose/Evil-Portals/blob/main/LICENSE) for more information.
 
@@ -43,11 +51,14 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/39856-evil-portals/)
 
+---
 ### Videos
 https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose
 
-### Credits
-https://github.com/kleo/evilportals
-
+---
 ### Screenshots
 ![alt text](https://user-images.githubusercontent.com/17387175/158378292-32af4781-31b7-4ce8-aae0-f09285bc9262.png?raw=true)
+
+---
+### Credits
+https://github.com/kleo/evilportals
