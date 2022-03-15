@@ -9,7 +9,7 @@ This project has been tested on the Pineapple MK7 with firmware 1.0.2 stable onl
 
 #### Usage
 
-Download the repository form https://github.com/SgtFoose/Evil-Portals (green code button top right / download.zip)
+Download the repository form https://github.com/SgtFoose/Evil-Portals (green code button top right / download ZIP)
 
 Extract the files on your computer (e.g. \Downloads\Evil-Portals-main\Evil-Portals-main\Portals).
 
