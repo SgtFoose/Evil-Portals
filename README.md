@@ -1,8 +1,18 @@
 ## Evil Portals
 
-[Evil Portals](https://github.com/SgtFoose/Evil-Portals) is a collection of portals that can be loaded into the Evil Portal module and can be used for phishing attacks against WiFi clients in order to obtain credentials or infect the victims with malware using the [Hak5](https://hak5.org/) [WiFi Pineapple](https://wifipineapple.com/) [Tetra](http://hakshop.myshopify.com/products/wifi-pineapple?variant=11303845317) and [Nano](http://hakshop.myshopify.com/products/wifi-pineapple?variant=81044992).
+[Foose Evil Portals](https://github.com/SgtFoose/Evil-Portals) is my collection of portals that can be loaded into the Evil Portal module and can be used for phishing attacks against WiFi clients in order to obtain credentials or infect the victims with malware using the [Hak5](https://hak5.org/) [WiFi Pineapple Mark VII](https://wifipineapple.com/) 
 
-This project has been tested on the Pineapple MK7 with firmware 1.0.2 stable only!! 
+This project has been tested on the Pineapple MK7 with these firmwares:
+
+1.0.0 not tested
+
+1.0.1 not tested
+
+1.0.2 Wokrs! (15-03-2022)
+
+1.1.1 not working (10-03-2022)
+
+2.0.0 not working (14-03-2022)
 
 
 ---
