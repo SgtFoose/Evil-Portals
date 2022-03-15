@@ -35,3 +35,6 @@ Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/39856
 
 ### Videos
 https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose
+
+### Credits
+https://github.com/kleo/evilportals
