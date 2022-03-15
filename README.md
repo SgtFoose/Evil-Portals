@@ -30,3 +30,6 @@ After gathering credentials, captured data will be shown as a notification on th
 ---
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/39856-evil-portals/)
+
+### Videos
+https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose
