@@ -9,9 +9,11 @@ This project has been tested on the Pineapple MK7 with firmware 1.0.2 stable onl
 
 #### Usage
 
-Download the repository form https://github.com/SgtFoose/Evil-Portals
+Download the repository form https://github.com/SgtFoose/Evil-Portals (green code button top right / download.zip)
 
-You can use [Filezilla](https://filezilla-project.org/) to copy the portals
+Extract the files on your computer and place them in a folder called "ziggo-login".
+
+You can use [Filezilla](https://filezilla-project.org/) to copy the portals in folder /root/portals/
 
 	Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
