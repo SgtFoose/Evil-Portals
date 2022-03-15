@@ -8,7 +8,7 @@ This project has been tested on the Pineapple MK7 with these firmwares:
 
 1.0.1 not tested
 
-1.0.2 Works! Link: https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.0.2-stable
+1.0.2 Works! [Link:](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.0.2-stable)
 
 1.1.1 not working (10-03-2022)
 
@@ -19,7 +19,7 @@ This project has been tested on the Pineapple MK7 with these firmwares:
 
 #### Usage
 
-Download the repository form https://github.com/SgtFoose/Evil-Portals (green code button top right / download ZIP)
+Download the repository form [Github](https://github.com/SgtFoose/Evil-Portals) (green code button top right / download ZIP)
 
 Extract the files on your computer (e.g. \Downloads\Evil-Portals-main\Evil-Portals-main\Portals).
 
@@ -35,10 +35,9 @@ After gathering credentials, captured data will be shown as a notification on th
 ---
 
 #### Firmware
-If you like to up or downgrade your Mark VII, I strongly recoomend to use these steps first:
-https://docs.hak5.org/wifi-pineapple/faq/factory-reset-and-recovery
+If you like to up or downgrade your Mark VII, I strongly recoomend to use [these](https://docs.hak5.org/wifi-pineapple/faq/factory-reset-and-recovery) steps first.
 
-Then, use one of the .bin files to upgrade: https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares
+Then, use one of the [.bin](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares) files to upgrade. 
 
 ---
 #### License
