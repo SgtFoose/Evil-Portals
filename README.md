@@ -23,6 +23,8 @@ Finally on the WiFi Pineapple web interface, start the Evil Portal module and th
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
 
 ---
+#### License
+Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kleo/evilportals/blob/master/LICENSE) for more information.
 
 #### Disclaimer
 * Usage of Evil Portals for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
