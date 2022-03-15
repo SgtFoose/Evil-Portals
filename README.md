@@ -24,7 +24,7 @@ After gathering credentials, captured data will be shown as a notification on th
 
 ---
 #### License
-Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](hhttps://github.com/SgtFoose/Evil-Portals/LICENSE) for more information.
+Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/SgtFoose/Evil-Portals/blob/main/LICENSE) for more information.
 
 #### Disclaimer
 * Usage of Evil Portals for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
