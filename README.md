@@ -53,6 +53,7 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 ---
 ### Videos
 [Ziggo](https://youtu.be/knW2t2AYfGk)
+[How to build your own Evil Portal](https://youtu.be/r6YXPGYmK0w)
 [Amadore](https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose)
 
 ---
