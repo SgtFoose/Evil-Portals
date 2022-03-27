@@ -2,7 +2,7 @@
 
 [Foose Evil Portals](https://github.com/SgtFoose/Evil-Portals) is my collection of portals that can be loaded into the Evil Portal module and can be used for phishing attacks against WiFi clients in order to obtain credentials or infect the victims with malware using the [Hak5](https://hak5.org/) [WiFi Pineapple Mark VII](https://wifipineapple.com/) 
 
-This project has been tested on the Pineapple MK7 with these firmwares:
+These projects have been tested on the Pineapple MK7 with the following firmwares:
 
 1.0.0 not tested
 
@@ -10,9 +10,9 @@ This project has been tested on the Pineapple MK7 with these firmwares:
 
 1.0.2 Works! [Link:](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.0.2-stable)
 
-1.1.1 not working (10-03-2022)
+1.1.1 Works! [Link:](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.1.1-stable)
 
-2.0.0 not working (14-03-2022)
+2.0.0 Works but requeire special settings, recommended to wait till stable release.
 
 
 ---
