@@ -59,6 +59,8 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 ---
 ### Screenshots
 ![alt text](https://user-images.githubusercontent.com/17387175/158378292-32af4781-31b7-4ce8-aae0-f09285bc9262.png?raw=true)
+![alt text](https://user-images.githubusercontent.com/17387175/160284637-2b6bd6c3-d85c-40f2-b6f5-ee8d291dd87b.png?raw=true)
+
 
 ---
 ### Credits
