@@ -8,9 +8,9 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 
 1.0.1 not tested
 
-1.0.2 Works! [Link:](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.0.2-stable)
+1.0.2 Works! [Link](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.0.2-stable)
 
-1.1.1 Works! [Link:](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.1.1-stable)
+1.1.1 Works! [Link](https://downloads.hak5.org/api/devices/wifipineapplemk7/firmwares/1.1.1-stable)
 
 2.0.0 Works but requeire special settings, recommended to wait till stable release.
 
