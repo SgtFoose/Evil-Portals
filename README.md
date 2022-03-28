@@ -20,6 +20,8 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 #### Installation of the Portals
 Installation can be done in atleast two ways:
 
+<br />
+
 Option 1: From your PC/Desktop:
 Download the repository form [Github](https://github.com/SgtFoose/Evil-Portals) (green code button top right / download ZIP)
 
@@ -30,8 +32,7 @@ Make sure to only copy the Portals, not the entire folder! On the MK7 it should 
 
 Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
-
-
+<br />
 
 Option 2: From your Pineapple Console:
 
@@ -63,9 +64,7 @@ portals.zip
 
 root@mk7:~/portals# 
 
-
-
-
+<br />
 
 Alternative way of verifying:
 With the Module "Cabinet" from the Download Modules page, you can browse / verify the content in this folder:
@@ -87,7 +86,7 @@ Again we have alteast two options:
 
 Option 1: Use your Pineapple's browser called "Cabinet" to move the desired Portals from this folder "/root/portals/Evil-Portals-main/Portals/mcdonalds-login" (e.g. mcdonalds-login) to folder "/root/portals/".
 
-
+<br />
 
 Option 2: If you want to copy all availlible portals, use this command in the Pineapple console:
 
@@ -183,3 +182,20 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtFoose)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Hak5 Wifi Pineapple MKVII Tutorials](https://youtube.com/playlist?list=PL-Yn2GfVAO9hhArZujZQ7RgEgbLDldM7_)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/SgtFoose)
+
+---
+
+Youtube:
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+[youtube]: https://youtube.com/SgtFoose
