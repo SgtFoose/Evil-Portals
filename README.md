@@ -32,6 +32,7 @@ Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
 
 
+
 Option 2: From your Pineapple Console:
 
 You need a program to unzip the portals. I used InfoZIP's "unzip" which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
@@ -42,7 +43,9 @@ wget https://github.com/SgtFoose/Evil-Portals/archive/refs/heads/main.zip -O /ro
 
 ---
 
-Next, we need to verify our process. Type these console commands:
+Next, we need to verify if downloading suceeded. 
+
+Type these console commands:
 
 cd ..
 
@@ -51,6 +54,16 @@ cd root (it looks like nothing happens with this step, please continue)
 cd portals
 
 ls (to verify if portals.zip is in your folder, if succeeded, proceed to the next steps)
+
+You should see this:
+
+root@mk7:~/portals# ls
+
+portals.zip
+
+root@mk7:~/portals# 
+
+
 
 Alternative way of verifying:
 With the Module "Cabinet" from the Download Modules page, you can browse / verify the content in this folder:
