@@ -34,7 +34,7 @@ Finally on the WiFi Pineapple web interface, start the Evil Portal module and th
 
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
 
----
+
 
 Option 2: From your Pineapple Console:
 
@@ -44,7 +44,9 @@ Download the portals from Github using the following command:
 
 wget https://github.com/SgtFoose/Evil-Portals/archive/refs/heads/main.zip -O /root/portals/portals.zip
 
-Next type these console commands:
+---
+
+Next, we need to verify our process. Type these console commands:
 
 cd ..
 
@@ -84,8 +86,13 @@ If you just want one of the portals, simply replace the "*" with the name of the
 
 mv -v -i /root/portals/Evil-Portals-main/Portals/mcdonalds-login /root/portals/
 
-Verify the content of the Portals folder with command:
+---
+
+Next, we need to verify the content of the Portals folder with command:
+
 ls
+
+If everything worked out well, please continue!
 
 ---
 
