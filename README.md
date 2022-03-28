@@ -92,6 +92,12 @@ Next, we need to verify the content of the Portals folder with command:
 
 ls
 
+You should see something like this:
+
+root@mk7:~/portals# ls
+Evil-Portals-main  mcdonalds-login    portals.zip        ziggo-login
+root@mk7:~/portals#
+
 If everything worked out well, please continue!
 
 ---
