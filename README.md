@@ -45,9 +45,13 @@ Download the portals from Github using the following command:
 wget https://github.com/SgtFoose/Evil-Portals/archive/refs/heads/main.zip -O /root/portals/portals.zip
 
 Next type these console commands:
+
 cd ..
+
 cd root (it looks like nothing happens with this step, please continue)
+
 cd portals
+
 ls (to verify if portals.zip is in your folder, if succeeded, proceed to the next steps)
 
 Alternative way of verifying:
