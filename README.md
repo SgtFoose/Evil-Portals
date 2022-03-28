@@ -40,6 +40,7 @@ From your Pineapple Console:
 You need a program to unzip the portals. I used InfoZIP's "unzip" which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
 
 Download the portals from Github using the following command:
+
 wget https://github.com/SgtFoose/Evil-Portals/archive/refs/heads/main.zip -O /root/portals/portals.zip
 
 With the Module "Cabinet" from the Download Modules page, you can browse / verify the content in this folder:
