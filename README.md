@@ -55,7 +55,7 @@ With the Module "Cabinet" from the Download Modules page, you can browse / verif
 
 /root/portals
 
-In here, you will find a new file called "Portals.zip". If success, go beck in the console and go in this /root/portals folder:
+In here, you will find a new file called "Portals.zip". If success, jump back in the Pineapple console and cd back into this "/root/portals" folder.
 
 ---
 
