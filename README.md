@@ -98,6 +98,7 @@ If everything worked out well, please continue!
 
 #### Usage
 Ok, downloading and installing is now complete!
+
 Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
 Make sure both the Evil Portals Web Server and Module have started and make sure your portal is "Activated" which can be verified using the "Preview" button.
