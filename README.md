@@ -85,6 +85,24 @@ ls
 Ok, downloading and installing is now complete!
 Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
+Make sure both the Evil Portals Web Server and Module have started and make sure your portal is "Activated" which can be verified using the "Preview" button.
+
+---
+
+Please note Firmware 2.0.0. currently has an SSL issue on the EP module. If the preview does not work, please take these steps:
+
+On the Pineapple, edit the file
+/etc/config/nginx
+
+and change
+    option uci_enable 'true'
+to
+    option uci_enable 'false'
+
+Reboot the Pineapple
+
+Verify
+
 ---
 
 #### Firmware
