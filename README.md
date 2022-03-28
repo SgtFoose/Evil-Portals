@@ -94,9 +94,11 @@ ls
 
 You should see something like this:
 
-root@mk7:~/portals: ls
+root@mk7:~/portals# ls
+
 Evil-Portals-main  mcdonalds-login    portals.zip        ziggo-login
-root@mk7:~/portals:
+
+root@mk7:~/portals#
 
 If everything worked out well, please continue!
 
