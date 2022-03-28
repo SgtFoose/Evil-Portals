@@ -17,7 +17,7 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 
 ---
 
-#### Usage
+#### Installation of the Portals
 Installation can be done in atleast two ways:
 
 Option 1: From your PC/Desktop:
@@ -81,6 +81,7 @@ ls
 
 ---
 
+#### Usage
 Ok, downloading and installing is now complete!
 Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
