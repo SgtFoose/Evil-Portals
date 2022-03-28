@@ -179,3 +179,7 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 ---
 ### Credits
 [Kleo Bercero](https://github.com/kleo/evilportals)
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtFoose)](https://github.com/anuraghazra/github-readme-stats)
