@@ -57,12 +57,16 @@ With the Module "Cabinet" from the Download Modules page, you can browse / verif
 
 In here, you will find a new file called "Portals.zip". If success, go beck in the console and go in this /root/portals folder:
 
+---
+
 Next, we need to unzip the portals with the following console command:
 unzip portals.zip (this will start extracting the portals into a folder named "Evil-Portals-main")
 
 From here, we need to move the downloaded portals into the correct folder. We have two options:
 
 Option 1: Use your Pineapple's browser called "Cabinet" to move the desired Portals from this folder "/root/portals/Evil-Portals-main/Portals/mcdonalds-login" (e.g. mcdonalds-login) to folder "/root/portals/".
+
+---
 
 Option 2: If you want to copy all availlible portals, use this command in the Pineapple console:
 
@@ -75,8 +79,10 @@ mv -v -i /root/portals/Evil-Portals-main/Portals/mcdonalds-login /root/portals/
 Verify the content of the Portals folder with command:
 ls
 
-Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
+---
 
+Ok, downloading and installing is now complete!
+Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
 ---
 
