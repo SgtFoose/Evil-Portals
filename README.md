@@ -64,6 +64,7 @@ In here, you will find a new file called "Portals.zip". If success, jump back in
 ---
 
 Next, we need to unzip the portals with the following console command:
+
 unzip portals.zip (this will start extracting the portals into a folder named "Evil-Portals-main")
 
 From here, we need to move the downloaded portals into the correct folder. We have two options:
