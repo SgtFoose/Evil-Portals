@@ -18,7 +18,9 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 ---
 
 #### Usage
+Installation can be done in atleast two ways:
 
+From your PC/Desktop:
 Download the repository form [Github](https://github.com/SgtFoose/Evil-Portals) (green code button top right / download ZIP)
 
 Extract the files on your computer (e.g. \Downloads\Evil-Portals-main\Evil-Portals-main\Portals).
@@ -31,6 +33,27 @@ Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 Finally on the WiFi Pineapple web interface, start the Evil Portal module and then activate the portal you wish to use.
 
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
+
+
+From your Pineapple Console:
+
+You need a program to unzip the portals. I used InfoZIP's "unzip" which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
+
+Download the portals from Github using the following command:
+wget https://github.com/SgtFoose/Evil-Portals/archive/refs/heads/main.zip -O /root/portals/portals.zip
+
+With the Module "Cabinet" from the Download Modules page, you can browse / verify the content in this folder:
+/root/portals
+
+In here, you will find a new file called "Portals.zip". If success, go beck in the console and go in this /root/portals folder:
+cd ..
+cd root (it looks like nothing happens with this step, please continue)
+cd portals
+ls (to verify if portals.zip is in your folder)
+unzip portals.zip (this will start extracting the portals into a folder named "Evil-Portals-main")
+Use your Pineapple's browser called "Cabinet" to move the desired Portals from this folder "/root/portals/Evil-Portals-main/Portals/mcdonalds-login" (e.g. mcdonalds-login) to folder "/root/portals/".
+Open your Evil Portal and it should now appear. If not, jump out of the Portal Page and come back to refresh the portals.
+
 
 ---
 
