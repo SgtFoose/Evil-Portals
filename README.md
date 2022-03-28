@@ -102,6 +102,10 @@ root@mk7:~/portals#
 
 If everything worked out well, please continue!
 
+Optional and recommend is to remove the Evil-Portals-main folder which is no longer needed with command:
+
+rm -r Evil-Portals-main
+
 ---
 
 #### Usage
