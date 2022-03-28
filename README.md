@@ -30,10 +30,6 @@ Make sure to only copy the Portals, not the entire folder! On the MK7 it should 
 
 Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
-Finally on the WiFi Pineapple web interface, start the Evil Portal module and then activate the portal you wish to use.
-
-After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
-
 
 
 Option 2: From your Pineapple Console:
@@ -114,6 +110,10 @@ Ok, downloading and installing is now complete!
 Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
 Make sure both the Evil Portals Web Server and Module have started and make sure your portal is "Activated" which can be verified using the "Preview" button.
+
+Finally after gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. 
+
+Logs are found at Modules > Evil Portal > Logs > View.
 
 ---
 
