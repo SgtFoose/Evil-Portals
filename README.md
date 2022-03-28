@@ -34,6 +34,7 @@ Finally on the WiFi Pineapple web interface, start the Evil Portal module and th
 
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
 
+---
 
 Option 2: From your Pineapple Console:
 
