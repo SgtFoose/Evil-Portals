@@ -20,7 +20,7 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 #### Usage
 Installation can be done in atleast two ways:
 
-From your PC/Desktop:
+Option 1: From your PC/Desktop:
 Download the repository form [Github](https://github.com/SgtFoose/Evil-Portals) (green code button top right / download ZIP)
 
 Extract the files on your computer (e.g. \Downloads\Evil-Portals-main\Evil-Portals-main\Portals).
@@ -35,7 +35,7 @@ Finally on the WiFi Pineapple web interface, start the Evil Portal module and th
 After gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. Logs are found at Modules > Evil Portal > Logs > View.
 
 
-From your Pineapple Console:
+Option 2: From your Pineapple Console:
 
 You need a program to unzip the portals. I used InfoZIP's "unzip" which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
 
