@@ -65,8 +65,6 @@ You should see this:
 
 **root@mk7:~/portals#**
 
-<br />
-
 ---
 
 **Alternative way of verifying:**
