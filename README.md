@@ -185,9 +185,9 @@ Authors assume no liability and are not responsible for any misuse or damage cau
 
 #### Videos
 
-[Ziggo](https://youtu.be/knW2t2AYfGk)
-[How to build your own Evil Portal](https://youtu.be/r6YXPGYmK0w)
-[Amadore](https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose)
+* [Ziggo](https://youtu.be/knW2t2AYfGk)
+* [How to build your own Evil Portal](https://youtu.be/r6YXPGYmK0w)
+* [Amadore](https://www.youtube.com/watch?v=XyWYiM48F_E&ab_channel=SgtFoose)
 
 ---
 
