@@ -51,11 +51,11 @@ Type these console commands:
 
 **cd ..**
 
-**cd root (it looks like nothing happens with this step, please continue)**
+**cd root** (it looks like nothing happens with this step, please continue)
 
 **cd portals**
 
-**ls (to verify if portals.zip is in your folder, if succeeded, proceed to the next steps)**
+**ls** (to verify if portals.zip is in your folder, if succeeded, proceed to the next steps)
 
 You should see this:
 
@@ -181,7 +181,7 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 
 ---
 
-### Videos
+#### Videos
 
 [Ziggo](https://youtu.be/knW2t2AYfGk)
 [How to build your own Evil Portal](https://youtu.be/r6YXPGYmK0w)
@@ -189,14 +189,14 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 
 ---
 
-### Screenshots
+#### Screenshots
 
 ![alt text](https://user-images.githubusercontent.com/17387175/160284637-2b6bd6c3-d85c-40f2-b6f5-ee8d291dd87b.png?raw=true)
 ![alt text](https://user-images.githubusercontent.com/17387175/158378292-32af4781-31b7-4ce8-aae0-f09285bc9262.png?raw=true)
 
 ---
 
-### Credits
+#### Credits
 
 [Kleo Bercero](https://github.com/kleo/evilportals)
 
@@ -206,7 +206,7 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 
 <br />
 
-### 📺 Latest YouTube Videos
+#### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Hak5 Wifi Pineapple MKVII Tutorials](https://youtube.com/playlist?list=PL-Yn2GfVAO9hhArZujZQ7RgEgbLDldM7_)
@@ -216,7 +216,7 @@ Evil Portals is distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENS
 
 ---
 
-## Youtube:
+### Youtube:
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
