@@ -37,7 +37,7 @@ Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
 **Option 2: From your Pineapple Console:**
 
-You need a program to unzip the portals. I used InfoZIP's "unzip" which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
+You need a program to unzip the portals. I used InfoZIP's (search for "unzip"), which can be found in your Packages page of the Pineapple. Make sure this is installed before you continue!
 
 Next, jump in the Pineapple Console and download the portals from my Github using the following command:
 
