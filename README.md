@@ -135,6 +135,11 @@ Ok, downloading and installing is now complete!
 
 Next, close the console and open your Evil Portal and they should now appear. If not, jump out of the Portal Page and come back which will refresh the portal list.
 
+If the new portal does not appear, just add a BASIC portal from the portals menu options. I found out this way of dealing with it was required on Firmware 2.1.3 stable. Refresh the page and both your new Portal and te BASIC portal should show.
+
+![image](https://github.com/SgtFoose/Evil-Portals/assets/17387175/53c3f69f-27bf-4769-8246-cb88f8956963)
+
+
 Make sure both the Evil Portals Web Server and Module have started and make sure your portal is "**Activated**" which can be verified using the "Preview" button.
 
 Finally after gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. 
