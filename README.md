@@ -14,6 +14,8 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 
 2.0.0 Works but requeire special settings, recommended to wait till stable release.
 
+2.1.3 Stable Works!
+
 
 ---
 
@@ -34,6 +36,9 @@ Make sure to only copy the Portals, not the entire folder! On the MK7 it should 
 Host: sftp://172.16.42.1 Username: root Password: yourpassword Port: 22
 
 <br />
+
+![image](https://github.com/SgtFoose/Evil-Portals/assets/17387175/dae3217b-9399-454a-96f6-376ce52966f9)
+
 
 **Option 2: From your Pineapple Console:**
 
@@ -135,23 +140,6 @@ Make sure both the Evil Portals Web Server and Module have started and make sure
 Finally after gathering credentials, captured data will be shown as a notification on the WiFi Pineapple web interface. 
 
 Logs are found at Modules > Evil Portal > Logs > View.
-
----
-
-Please note Firmware 2.0.0. currently has an SSL issue on the EP module. If the preview does not work, please take these steps:
-
-On the Pineapple, edit the file
-
-**/etc/config/nginx**
-
-and change
-    **option uci_enable 'true'**
-to
-    **option uci_enable 'false'**
-
-Reboot the Pineapple
-
-Verify
 
 ---
 
