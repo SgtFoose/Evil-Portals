@@ -154,23 +154,12 @@
 
 .url-color1 {
     color: #ffc107;
-}
-
-.url-color1:link {
-    color: #ffc107;
     text-decoration: none;
 }
 
-.url-color1:visited {
-    color: #ffc107;
-    text-decoration: none;
-}
-
-.url-color1:hover {
-    color: #ffc107;
-    text-decoration: none;
-}
-
+.url-color1:link,
+.url-color1:visited,
+.url-color1:hover,
 .url-color1:active {
     color: #ffc107;
     text-decoration: none;
@@ -180,7 +169,7 @@
     color: #ffc107;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     background-color: #244424;
-    *background-color: #fddd7d;
+    background-color: #fddd7d;
     background-image: -moz-linear-gradient(top, #244424, #011a01);
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#244424), to(#011a01));
     background-image: -webkit-linear-gradient(top, #244424, #011a01);
@@ -200,7 +189,7 @@
 .btn-primary[disabled] {
     color: #ff0000;
     background-color: #ffc107;
-    *background-color: #ffc107;
+    background-color: #ffc107;
 }
 
 .btn-xlarge {
