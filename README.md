@@ -14,7 +14,12 @@ These projects have been tested on the Pineapple MK7 with the following firmware
 
 2.0.0 Works but requeire special settings, recommended to wait till stable release.
 
-2.1.3 Stable Works!
+2.1.3 Stable 11/03/2025 Found some issues running the portals. Investigating right now.
+When adding the portal to the MK7, it does work and run but it appears as Portal Type BASIC so you cant hit the Preview and View Log buttons anymore.
+
+Kleo / Hak5 seems to have chagend the layout of the .ep file. I have tried to Add a new portal from the tool itself to be able to update my portals .ep files, but his seems not to have the expected result and the Module would still show my portals as type BASIC.
+
+To be continued!!
 
 
 ---
